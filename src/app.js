@@ -3,8 +3,8 @@ document.addEventListener('alpine:init', () => {
       items: [
      { id: 1, name: 'Palm Sugar Coffee Hot', img: 'CH', price: 18000},
           { id: 2, name: 'Palm Sugar Coffee Cold', img: 'CC', price: 18000},
-          { id: 3, name: 'Coffee Latte Hot', img: 'p2', price: 18000},
-          { id: 4, name: 'Coffee Latte Cold', img: 'p3', price: 18000},
+          { id: 3, name: 'Coffee Latte Hot', img: 'P2', price: 18000},
+          { id: 4, name: 'Coffee Latte Cold', img: 'P3', price: 18000},
           { id: 5, name: 'Espresso', img: 'Es', price: 15000},
       ],
   }));
